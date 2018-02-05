@@ -1,0 +1,19 @@
+{
+  "name": "compromise-stress",
+  "version": "0.0.1",
+  "description": "accuracy + stress-testing for nlp-compromise builds",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nlp-compromise/compromise-stress.git"
+  },
+  "author": "spencermountain@gmail.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nlp-compromise/compromise-stress/issues"
+  },
+  "homepage": "https://github.com/nlp-compromise/compromise-stress#readme"
+}
